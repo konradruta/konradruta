@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👋 Cześć, jestem Konrad
 
-<!--
-**konradruta/konradruta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student informatyki – 4 rok (semestr inżynierski).
+Tworzę backendowe aplikacje w ASP.NET Core (REST API).
+Skupiam się na czytelnym kodzie, logice biznesowej i dobrych praktykach.
 
-Here are some ideas to get you started:
+### Projekty
+- Account API – rejestracja, logowanie, JWT, walidacja danych
+- ToDo API – CRUD, paginacja, filtrowanie, autoryzacja
+- Library API – zarządzanie biblioteką, role użytkowników, JWT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologie
+ASP.NET Core, C#, Entity Framework Core, SQL, JWT, FluentValidation, Git
