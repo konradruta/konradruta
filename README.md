@@ -9,5 +9,15 @@ Skupiam się na czytelnym kodzie, logice biznesowej i dobrych praktykach.
 - ToDo API – CRUD, paginacja, filtrowanie, autoryzacja
 - Library API – zarządzanie biblioteką, role użytkowników, JWT
 
-### Technologie
-ASP.NET Core, C#, Entity Framework Core, SQL, JWT, FluentValidation, Git
+### Technologie i narzędzia
+**Backend:**  
+C#, ASP.NET Core, Entity Framework Core, LINQ, REST API  
+
+**Bazy danych:**  
+SQL (MS SQL Server)  
+
+**Bezpieczeństwo:**  
+JWT, FluentValidation  
+
+**Narzędzia:**  
+Visual Studio, Visual Studio Code, SQL Server Management Studio, Postman, Swagger, Git
