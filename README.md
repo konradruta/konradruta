@@ -5,7 +5,7 @@ Tworzę backendowe aplikacje w ASP.NET Core (REST API).
 Skupiam się na czytelnym kodzie, logice biznesowej i dobrych praktykach.
 
 ### Projekty
-- Account API – rejestracja, logowanie, JWT, refresh tokens, testy jednostkowe (xUnit, Moq), Docker
+- Account API – REST API z autoryzacją JWT i refresh tokens, testy jednostkowe oraz integracyjne API (xUnit, Moq, WebApplicationFactory), Docker
 - ToDo API – CRUD, paginacja, filtrowanie, autoryzacja
 - Library API – zarządzanie biblioteką, role użytkowników, JWT
 
