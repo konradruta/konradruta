@@ -20,7 +20,7 @@ SQL (MS SQL Server)
 JWT, FluentValidation  
 
 **Testy:**  
-xUnit, Moq, EF Core InMemory 
+Testy jednostkowe i integracyjne: xUnit, Moq, EF Core InMemory, WebApplicationFactory
 
 **Narzędzia:**  
 Visual Studio, Visual Studio Code, SQL Server Management Studio, Postman, Swagger, Git, Docker
